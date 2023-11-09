@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/registro-clientes-firebase-react/static/css/main.cdc54e29.css",
+    "main.js": "/registro-clientes-firebase-react/static/js/main.66152370.js",
+    "static/js/787.b1db5d41.chunk.js": "/registro-clientes-firebase-react/static/js/787.b1db5d41.chunk.js",
+    "index.html": "/registro-clientes-firebase-react/index.html",
+    "main.cdc54e29.css.map": "/registro-clientes-firebase-react/static/css/main.cdc54e29.css.map",
+    "main.66152370.js.map": "/registro-clientes-firebase-react/static/js/main.66152370.js.map",
+    "787.b1db5d41.chunk.js.map": "/registro-clientes-firebase-react/static/js/787.b1db5d41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cdc54e29.css",
+    "static/js/main.66152370.js"
+  ]
+}
